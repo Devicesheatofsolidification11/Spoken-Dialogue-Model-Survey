@@ -1,6 +1,11 @@
 # Spoken Dialogue Models Survey
 
+[![arXiv](https://img.shields.io/badge/arXiv-2603.22267-b31b1b.svg)](https://arxiv.org/abs/2603.22267)
+[![Website](https://img.shields.io/badge/Website-Interactive%20Survey-blue)](https://kwchang.org/sdm-survey/)
+
 A survey of spoken dialogue models (SDMs) with **speech input** and **speech output**.
+
+The detailed description and the table can be found in the [TiCo](https://arxiv.org/abs/2603.22267) paper.
 
 <p align="center">
   <img src="assets/sdm-timeline.png" width="800">
