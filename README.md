@@ -64,7 +64,7 @@ SDMs generate speech tokens that are decoded into waveforms by a vocoder or spee
 
 ## Citation
 
-This survey is motivated by our paper [TiCo: Time-Controllable Training for Spoken Dialogue Models](https://arxiv.org/abs/2603.22267), which inserts Spoken Time Tokens into the intermediate representation of SDMs.
+This survey originated from our paper, [TiCo: Time-Controllable Training for Spoken Dialogue Models](https://arxiv.org/abs/2603.22267), which introduces Spoken Time Tokens into the intermediate representation of SDMs to enable explicit time controllability.
 
 If you find this repo useful, please cite:
 
